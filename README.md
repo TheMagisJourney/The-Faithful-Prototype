@@ -1,1 +1,34 @@
-IyBUaGUgRmFpdGhmdWwgLSBDYXRob2xpYyBDb21tdW5pdHkgR3VpZGUKCkEgcHJvdG90eXBlIHdlYiBhcHBsaWNhdGlvbiBkZXNpZ25lZCB0byBoZWxwIENhdGhvbGljcyBmaW5kIGFuZCBjb25uZWN0IHdpdGggdGhlaXIgbG9jYWwgZmFpdGggY29tbXVuaXR5LgoKIyMgRmVhdHVyZXMKCi0gQnJvd3NlIGRpZmZlcmVudCBhc3BlY3RzIG9mIENhdGhvbGljIGZhaXRoIGFuZCBwcmFjdGljZQotIEZpbmQgbmVhcmJ5IENhdGhvbGljIGNodXJjaGVzCi0gVmlldyB1cGNvbWluZyBNYXNzIHRpbWVzIGFuZCBldmVudHMKLSBJbnRlcmFjdGl2ZSBtYXAgaW50ZWdyYXRpb24KLSBDb21tdW5pdHkgZW5nYWdlbWVudCBmZWF0dXJlcwo=
+# The Faithful - Catholic Community Guide
+
+A web application prototype designed to help Catholics find and connect with their local faith community.
+
+## Features
+
+- Browse different aspects of Catholic faith
+- Find nearby Catholic churches
+- View church events and Mass schedules
+- Interactive map interface
+- Event calendar and details
+
+## Getting Started
+
+1. Install dependencies:
+```bash
+npm install
+```
+
+2. Run the development server:
+```bash
+npm run dev
+```
+
+## Technology Stack
+
+- React
+- Tailwind CSS
+- shadcn/ui components
+- Lucide icons
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
